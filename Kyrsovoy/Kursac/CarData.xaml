@@ -1,0 +1,36 @@
+﻿<Page x:Class="Kursac.CarData"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Kursac"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="650"
+      Title="CarData">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="401*"/>
+            <RowDefinition Height="49*"/>
+        </Grid.RowDefinitions>
+        <DataGrid x:Name="DGridCar" AutoGenerateColumns="False" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Марка" Binding="{Binding Brand}" Width="60"></DataGridTextColumn>
+                <DataGridTextColumn Header="Модель" Binding="{Binding Model}" Width="60"></DataGridTextColumn>
+                <DataGridTextColumn Header="Год" Binding="{Binding Year}" Width="60"></DataGridTextColumn>
+                <DataGridTextColumn Header="Цена" Binding="{Binding Price}" Width="100"></DataGridTextColumn>
+                <DataGridTextColumn Header="Описание" Binding="{Binding Description}" Width="190"></DataGridTextColumn>
+                <DataGridTemplateColumn Width="auto">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Click="BtnDelete_Click" Name="BtnDelete" HorizontalAlignment="Right" Content="Удалить" Grid.Row="1"></Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Click="BtnAdd_Click" Name="BtnAdd" HorizontalAlignment="Center" Content="Добавить" Grid.Row="1"></Button>
+        <Button Name="WordExport" HorizontalAlignment="left" Content="Word" Grid.Row="1"  Click="WordExport_Click"></Button>
+        <Button Name="ExcelExport" HorizontalAlignment="Right" Content="Excel"  Grid.Row="1" Click="ExcelExport_Click" ></Button>
+    </Grid>
+</Page>

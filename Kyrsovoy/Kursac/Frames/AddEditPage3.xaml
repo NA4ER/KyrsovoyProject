@@ -1,0 +1,36 @@
+﻿<Page x:Class="Kursac.AddEditPage3"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Kursac"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="650"
+      Title="AddEditPage3">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="39"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Номер магшины"></TextBlock>
+        <TextBlock Text="Номер клиента" Grid.Row="1"></TextBlock>
+        <TextBlock Text="Номер сотрудника" Grid.Row="2"></TextBlock>
+        <TextBlock Text="Дата продажи" Grid.Row="3"/>
+        <TextBlock Text="Сумма" Grid.Row="4"/>
+        <TextBox x:Name="CarID"  Grid.Column="1" Margin="5,0,5,0" ></TextBox>
+        <TextBox x:Name="ClientID" Grid.Row="1" Grid.Column="1" Margin="5,0,5,0"></TextBox>
+        <TextBox x:Name="EmployeeID"  Grid.Row="2" Grid.Column="1" Margin="5,0,5,0"></TextBox>
+        <TextBox x:Name="DateOfSale"  Grid.Row="3" Grid.Column="1" Margin="5,0,5,0"/>
+        <TextBox x:Name="SalesAmount" Grid.Row="4" Grid.Column="1" Margin="5,0,5,0"/>
+        <Button Name="BtnSave" Click="BtnSave_Click" Content="Сохранить" Grid.Row="5" Grid.Column="1"></Button>
+    </Grid>
+</Page>

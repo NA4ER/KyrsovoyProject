@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="98781994f1f5460187ac70198383c61b" Name="Diagram1" ZoomLevel="147">
+        <EntityTypeShape EntityType="CarShopModel.Car" Width="1.5" PointX="0.75" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CarShopModel.Client" Width="1.5" PointX="0.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CarShopModel.Employee" Width="1.5" PointX="3.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CarShopModel.Orders" Width="1.5" PointX="3.375" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="CarShopModel.Sales" Width="1.5" PointX="6" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CarShopModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="6.75" IsExpanded="true" />
+        <AssociationConnector Association="CarShopModel.FK_Orders_Car" ManuallyRouted="false" />
+        <AssociationConnector Association="CarShopModel.FK_Sales_Car" ManuallyRouted="false" />
+        <AssociationConnector Association="CarShopModel.FK_Orders_Client" ManuallyRouted="false" >
+        </AssociationConnector>
+        <AssociationConnector Association="CarShopModel.FK_Sales_Client" ManuallyRouted="true" >
+          <ConnectorPoint PointX="2.25" PointY="7.775383615384615" />
+          <ConnectorPoint PointX="2.875" PointY="7.1503836153846159" />
+          <ConnectorPoint PointX="2.875" PointY="5.7494921875" />
+          <ConnectorPoint PointX="5.010416666666667" PointY="5.7494921874999987" />
+          <ConnectorPoint PointX="5.177083333333333" PointY="5.7494921875" />
+          <ConnectorPoint PointX="5.625" PointY="5.7494921875" />
+          <ConnectorPoint PointX="6" PointY="5.3744921875" />
+        </AssociationConnector>
+        <AssociationConnector Association="CarShopModel.FK_Sales_Employee" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

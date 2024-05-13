@@ -1,0 +1,166 @@
+C:\Users\Николай\Desktop\Kursac\Kursac\bin\Debug\Kursac.exe.config
+C:\Users\Николай\Desktop\Kursac\Kursac\bin\Debug\Kursac.exe
+C:\Users\Николай\Desktop\Kursac\Kursac\bin\Debug\Kursac.pdb
+C:\Users\Николай\Desktop\Kursac\Kursac\obj\Debug\Kursac.csproj.AssemblyReference.cache
+C:\Users\Николай\Desktop\Kursac\Kursac\obj\Debug\MainWindow.g.cs
+C:\Users\Николай\Desktop\Kursac\Kursac\obj\Debug\Window1.g.cs
+C:\Users\Николай\Desktop\Kursac\Kursac\obj\Debug\App.g.cs
+C:\Users\Николай\Desktop\Kursac\Kursac\obj\Debug\Kursac_MarkupCompile.cache
+C:\Users\Николай\Desktop\Kursac\Kursac\obj\Debug\Kursac_MarkupCompile.lref
+C:\Users\Николай\Desktop\Kursac\Kursac\obj\Debug\MainWindow.baml
+C:\Users\Николай\Desktop\Kursac\Kursac\obj\Debug\Window1.baml
+C:\Users\Николай\Desktop\Kursac\Kursac\obj\Debug\Kursac.g.resources
+C:\Users\Николай\Desktop\Kursac\Kursac\obj\Debug\Kursac.Properties.Resources.resources
+C:\Users\Николай\Desktop\Kursac\Kursac\obj\Debug\Kursac.csproj.GenerateResource.cache
+C:\Users\Николай\Desktop\Kursac\Kursac\obj\Debug\Kursac.csproj.CoreCompileInputs.cache
+C:\Users\Николай\Desktop\Kursac\Kursac\obj\Debug\Kursac.exe
+C:\Users\Николай\Desktop\Kursac\Kursac\obj\Debug\Kursac.pdb
+C:\Users\Николай\Desktop\Kursac\Kursac\obj\Debug\Window2.g.cs
+C:\Users\Николай\Desktop\Kursac\Kursac\obj\Debug\Window2.baml
+C:\Users\Николай\Desktop\Kursac\Kursac\obj\Debug\App.baml
+E:\№ 1 Курсач ДП\Kursac\Kursac\bin\Debug\Kursac.exe.config
+E:\№ 1 Курсач ДП\Kursac\Kursac\bin\Debug\Kursac.exe
+E:\№ 1 Курсач ДП\Kursac\Kursac\bin\Debug\Kursac.pdb
+E:\№ 1 Курсач ДП\Kursac\Kursac\bin\Debug\EntityFramework.dll
+E:\№ 1 Курсач ДП\Kursac\Kursac\bin\Debug\EntityFramework.SqlServer.dll
+E:\№ 1 Курсач ДП\Kursac\Kursac\bin\Debug\EntityFramework.xml
+E:\№ 1 Курсач ДП\Kursac\Kursac\bin\Debug\EntityFramework.SqlServer.xml
+E:\№ 1 Курсач ДП\Kursac\Kursac\bin\Debug\ru\EntityFramework.resources.dll
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\Kursac.csproj.AssemblyReference.cache
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\ClientData.g.cs
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\MainWindow.g.cs
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\Window1.g.cs
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\Window2.g.cs
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\App.g.cs
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\Kursac_Content.g.cs
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\Kursac_MarkupCompile.cache
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\Kursac_MarkupCompile.lref
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\App.baml
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\ClientData.baml
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\MainWindow.baml
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\Window1.baml
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\Window2.baml
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\Kursac.g.resources
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\Kursac.Properties.Resources.resources
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\Kursac.csproj.GenerateResource.cache
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\Kursac.csproj.CoreCompileInputs.cache
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\Kursac.csproj.Up2Date
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\Kursac.exe
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\Kursac.pdb
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\CarData.g.cs
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\Orders.g.cs
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\Sales.g.cs
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\CarData.baml
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\Orders.baml
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\Sales.baml
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\AddEditPage.g.cs
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\AddEditPage.baml
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\AddEditPage2.g.cs
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\AddEditPage2.baml
+E:\№ 1 Курсач ДП\Kursac\Kursac\obj\Debug\Kursac.csproj.ResolveComReference.cache
+D:\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Kursac.csproj.AssemblyReference.cache
+D:\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Kursac.csproj.ResolveComReference.cache
+D:\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\AddEditPage.g.cs
+D:\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\AddEditPage2.g.cs
+D:\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\CarData.g.cs
+D:\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\ClientData.g.cs
+D:\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\MainWindow.g.cs
+D:\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Orders.g.cs
+D:\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Sales.g.cs
+D:\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Window1.g.cs
+D:\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Window2.g.cs
+D:\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\App.g.cs
+D:\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Kursac_Content.g.cs
+D:\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Kursac_MarkupCompile.cache
+D:\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Kursac_MarkupCompile.lref
+D:\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Kursac.exe
+D:\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Kursac.pdb
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Kursac.csproj.AssemblyReference.cache
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Kursac.csproj.ResolveComReference.cache
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\AddEditPage.g.cs
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\AddEditPage2.g.cs
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\MainWindow.g.cs
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Orders.g.cs
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Sales.g.cs
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Window1.g.cs
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Window2.g.cs
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\App.g.cs
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Kursac_Content.g.cs
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Kursac_MarkupCompile.cache
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Kursac_MarkupCompile.lref
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Kursac.exe
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Kursac.pdb
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\CarData.g.cs
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\ClientData.g.cs
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\bin\Debug\Kursac.exe.config
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\bin\Debug\Kursac.exe
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\bin\Debug\Kursac.pdb
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\bin\Debug\EntityFramework.dll
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\bin\Debug\EntityFramework.xml
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\App.baml
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\AddEditPage.baml
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\AddEditPage2.baml
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\CarData.baml
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\ClientData.baml
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\MainWindow.baml
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Orders.baml
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Sales.baml
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Window1.baml
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Window2.baml
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Kursac.g.resources
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Kursac.Properties.Resources.resources
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Kursac.csproj.GenerateResource.cache
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Kursac.csproj.CoreCompileInputs.cache
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\Kursac.csproj.Up2Date
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\AddEditPage3.g.cs
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\AddEditPage4.g.cs
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\AddEditPage3.baml
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kursac\Kursac\obj\Debug\AddEditPage4.baml
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\bin\Debug\Kursac.exe.config
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\bin\Debug\Kursac.exe
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\bin\Debug\Kursac.pdb
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\bin\Debug\EntityFramework.dll
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\bin\Debug\EntityFramework.xml
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Kursac.csproj.AssemblyReference.cache
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Kursac.csproj.ResolveComReference.cache
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\CarData.g.cs
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\ClientData.g.cs
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\MainWindow.g.cs
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Window1.g.cs
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Window2.g.cs
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\App.g.cs
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Kursac_Content.g.cs
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Kursac_MarkupCompile.cache
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Kursac_MarkupCompile.lref
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\App.baml
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\CarData.baml
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\ClientData.baml
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\MainWindow.baml
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Window1.baml
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Window2.baml
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Kursac.g.resources
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Kursac.Properties.Resources.resources
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Kursac.csproj.GenerateResource.cache
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Kursac.csproj.CoreCompileInputs.cache
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Kursac.csproj.Up2Date
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Kursac.exe
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Kursac.pdb
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Frames\AddEditPage.g.cs
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Frames\AddEditPage2.g.cs
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Frames\AddEditPage3.g.cs
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Frames\AddEditPage4.g.cs
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Frames\Orders.g.cs
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Frames\Sales.g.cs
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Frames\AddEditPage.baml
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Frames\AddEditPage2.baml
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Frames\AddEditPage3.baml
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Frames\AddEditPage4.baml
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Frames\Orders.baml
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Frames\Sales.baml
+C:\Users\Николай\Desktop\№ 1 Курсач ДП one love\Kyrsovoy\Kursac\obj\Debug\Orders.g.cs
